@@ -1,2 +1,2 @@
-# NBA-Rui-Hachimura
-A static website for NBA Rookie Rui Hachimura
+# NBA-Stephen-Curry
+A static website for NBA Star Stephen Curry 
